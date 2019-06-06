@@ -24,7 +24,7 @@ In this section you can find various guides, scripts, and explanations that can 
 
 ## Configure features
 
-- [Configure transactional replication](replication-to-sql-database.md) to replicate your date between databases.
+- [Configure transactional replication](replication-to-sql-database.md) to replicate your data between databases.
 - [Configure threat detection](sql-database-threat-detection.md) to let Azure SQL Database identify suspicious activities such as SQL Injection or access from suspicious locations.
 - [Configure dynamic data masking](sql-database-dynamic-data-masking-get-started-portal.md) to protect your sensitive data.
 - [Configure backup retention](sql-database-long-term-backup-retention-configure.md) for a database to keep your backups on Azure Blob Storage. As an alternative there is [Configure backup retention using Azure vault (deprecated)](sql-database-long-term-backup-retention-configure-vault.md) approach.
